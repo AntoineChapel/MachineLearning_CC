@@ -1,2 +1,2 @@
 # MachineLearning_CC
-This repository hosts a crash course in Machine Learning and Deep Learning techniques I have written for the January 2022 edition of the Math+Econ+Code level masterclass.
+This repository hosts a crash course in Machine Learning and Deep Learning techniques I have written for the January 2022 edition of the Math+Econ+Code level masterclass. It relies on many exterior resources, including but not limited to Aurélien Géron (Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow), Isaiah Hull (Machine Learning for Economics and Finance with TensorFlow 2), the Scikit-Learn and Keras documentation, TensorFlow and TensorFlow Probability online tutorials, etc.
